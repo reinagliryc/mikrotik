@@ -40,7 +40,7 @@ __Upgrade à étudier__
 - Utilisation d'un module SFP d'Orange pour supprimer l'ONT
 
 Sources:
-https://lafibre.info/remplacer-livebox/index-des-solutions-de-remplacement-de-la-livebox/
-https://sebastien.warin.fr/2017/02/11/4284-fonctionnement-fibre-orange-remplacement-livebox-routeur-mikrotik-routeros/
-https://lafibre.info/remplacer-livebox/cacking-nouveau-systeme-de-generation-de-loption-90-dhcp/
-http://blog.jpauli.tech/replacing-the-isp-cpe-box-the-orange-case/
+- https://lafibre.info/remplacer-livebox/index-des-solutions-de-remplacement-de-la-livebox/
+- https://sebastien.warin.fr/2017/02/11/4284-fonctionnement-fibre-orange-remplacement-livebox-routeur-mikrotik-routeros/
+- https://lafibre.info/remplacer-livebox/cacking-nouveau-systeme-de-generation-de-loption-90-dhcp/
+- http://blog.jpauli.tech/replacing-the-isp-cpe-box-the-orange-case/
